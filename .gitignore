@@ -1,0 +1,14 @@
+Project1-for-CS3319/Animals_with_Attributes2
+Project1-for-CS3319/*.npy
+Project1-for-CS3319/__pycache__
+Project2-for-CS3319/Animals_with_Attributes2
+Project2-for-CS3319/__pycache__
+Project2-for-CS3319/*.npy
+Project3-for-CS3319/Animals_with_Attributes2
+Project3-for-CS3319/__pycache__
+Project3-for-CS3319/AwA2-data
+Project3-for-CS3319/.vscode
+Project3-for-CS3319/pickle
+Project3-for-CS3319/*.ini
+Project3-for-CS3319/*.npy
+.gitignore

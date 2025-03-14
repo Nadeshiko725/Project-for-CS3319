@@ -1,0 +1,21 @@
+linear: n_comp = 0.100000, acc = 0.929131, dimension = 1883
+linear: n_comp = 0.200000, acc = 0.930337, dimension = 1353
+linear: n_comp = 0.300000, acc = 0.929868, dimension = 1024
+linear: n_comp = 0.500000, acc = 0.926519, dimension = 623
+linear: n_comp = 0.700000, acc = 0.921897, dimension = 400
+linear: n_comp = 0.900000, acc = 0.915266, dimension = 268
+linear: Best n_comp = 0.200000
+linear: score = 0.930337
+linear: dimension = 1353.000000
+\begin{tabular}{|c|c|c|}
+\hline
+n\_comp & acc & dimension \\
+\hline
+0.100000 & 0.929131 & 1883 \\
+0.200000 & 0.930337 & 1353 \\
+0.300000 & 0.929868 & 1024 \\
+0.500000 & 0.926519 & 623 \\
+0.700000 & 0.921897 & 400 \\
+0.900000 & 0.915266 & 268 \\
+\hline
+\end{tabular}

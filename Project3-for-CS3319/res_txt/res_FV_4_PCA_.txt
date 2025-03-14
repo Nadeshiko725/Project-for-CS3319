@@ -1,0 +1,7 @@
+k: 4, C: 0.001000, linear_score: 0.214500, rbf_score: 0.214500
+k: 4, C: 0.030000, linear_score: 0.249500, rbf_score: 0.214500
+k: 4, C: 0.100000, linear_score: 0.249500, rbf_score: 0.214500
+k: 4, C: 0.300000, linear_score: 0.249000, rbf_score: 0.237000
+k: 4, C: 1.000000, linear_score: 0.248000, rbf_score: 0.260000
+k: 4, C: 3.000000, linear_score: 0.250500, rbf_score: 0.267500
+k: 4, C: 5.000000, linear_score: 0.250000, rbf_score: 0.255500

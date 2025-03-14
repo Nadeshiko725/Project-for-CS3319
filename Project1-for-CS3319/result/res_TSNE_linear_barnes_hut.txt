@@ -1,0 +1,15 @@
+perplexity = 10.0
+linear: n_comp = 2.000000, acc = 0.086610
+linear: n_comp = 3.000000, acc = 0.017550
+perplexity = 20.0
+linear: n_comp = 2.000000, acc = 0.086945
+linear: n_comp = 3.000000, acc = 0.014870
+perplexity = 30.0
+linear: n_comp = 2.000000, acc = 0.087012
+linear: n_comp = 3.000000, acc = 0.018822
+perplexity = 40.0
+linear: n_comp = 2.000000, acc = 0.086811
+linear: n_comp = 3.000000, acc = 0.019492
+perplexity = 50.0
+linear: n_comp = 2.000000, acc = 0.086409
+linear: n_comp = 3.000000, acc = 0.015071

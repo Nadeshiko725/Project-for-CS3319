@@ -1,0 +1,67 @@
+k: 2, C: 0.001000, linear_score: 0.215000, rbf_score: 0.214500
+k: 2, C: 0.030000, linear_score: 0.254000, rbf_score: 0.214500
+k: 2, C: 0.100000, linear_score: 0.255000, rbf_score: 0.215000
+k: 2, C: 0.300000, linear_score: 0.257000, rbf_score: 0.247000
+k: 2, C: 1.000000, linear_score: 0.256000, rbf_score: 0.270000
+k: 2, C: 3.000000, linear_score: 0.255500, rbf_score: 0.274500
+k: 2, C: 5.000000, linear_score: 0.256000, rbf_score: 0.264000
+k: 4, C: 0.001000, linear_score: 0.214500, rbf_score: 0.214500
+k: 4, C: 0.030000, linear_score: 0.249500, rbf_score: 0.214500
+k: 4, C: 0.100000, linear_score: 0.249500, rbf_score: 0.214500
+k: 4, C: 0.300000, linear_score: 0.249000, rbf_score: 0.237000
+k: 4, C: 1.000000, linear_score: 0.248000, rbf_score: 0.260000
+k: 4, C: 3.000000, linear_score: 0.250500, rbf_score: 0.267500
+k: 4, C: 5.000000, linear_score: 0.250000, rbf_score: 0.255500
+k: 8, C: 0.001000, linear_score: 0.215500, rbf_score: 0.214500
+k: 8, C: 0.030000, linear_score: 0.249500, rbf_score: 0.214500
+k: 8, C: 0.100000, linear_score: 0.248000, rbf_score: 0.214500
+k: 8, C: 0.300000, linear_score: 0.248000, rbf_score: 0.244500
+k: 8, C: 1.000000, linear_score: 0.249000, rbf_score: 0.242500
+k: 8, C: 3.000000, linear_score: 0.248500, rbf_score: 0.246000
+k: 8, C: 5.000000, linear_score: 0.248500, rbf_score: 0.235000
+k: 16, C: 0.001000, linear_score: 0.214500, rbf_score: 0.214500
+k: 16, C: 0.030000, linear_score: 0.200500, rbf_score: 0.214500
+k: 16, C: 0.100000, linear_score: 0.200500, rbf_score: 0.214500
+k: 16, C: 0.300000, linear_score: 0.201000, rbf_score: 0.230500
+k: 16, C: 1.000000, linear_score: 0.202000, rbf_score: 0.240500
+k: 16, C: 3.000000, linear_score: 0.201500, rbf_score: 0.225000
+k: 16, C: 5.000000, linear_score: 0.201500, rbf_score: 0.218500
+\begin{table}[htbp]
+    \centering
+    \caption{Scores}
+        \begin{tabular}{cccccc}
+        \toprule
+        k     & C     & linear\_score & rbf\_score \\
+        \midrule
+        2     & 0.001 & 0.215 & 0.2145 \\
+        2     & 0.03  & 0.254 & 0.2145 \\
+        2     & 0.1   & 0.255 & 0.215 \\
+        2     & 0.3   & 0.257 & 0.247 \\
+        2     & 1     & 0.256 & 0.27 \\
+        2     & 3     & 0.2555 & 0.2745 \\
+        2     & 5     & 0.256 & 0.264 \\
+        4     & 0.001 & 0.2145 & 0.2145 \\
+        4     & 0.03  & 0.2495 & 0.2145 \\
+        4     & 0.1   & 0.2495 & 0.2145 \\
+        4     & 0.3   & 0.249 & 0.237 \\
+        4     & 1     & 0.248 & 0.26 \\
+        4     & 3     & 0.2505 & 0.2675 \\
+        4     & 5     & 0.25  & 0.2555 \\
+        8     & 0.001 & 0.2155 & 0.2145 \\
+        8     & 0.03  & 0.2495 & 0.2145 \\
+        8     & 0.1   & 0.248 & 0.2145 \\
+        8     & 0.3   & 0.248 & 0.2445 \\
+        8     & 1     & 0.249 & 0.2425 \\
+        8     & 3     & 0.2485 & 0.246 \\
+        8     & 5     & 0.2485 & 0.235 \\
+        16    & 0.001 & 0.2145 & 0.2145 \\
+        16    & 0.03  & 0.2005 & 0.2145 \\
+        16    & 0.1   & 0.2005 & 0.2145 \\
+        16    & 0.3   & 0.201 & 0.2305 \\
+        16    & 1     & 0.202 & 0.2405 \\
+        16    & 3     & 0.2015 & 0.225 \\
+        16    & 5     & 0.2015 & 0.2185 \\
+        \bottomrule
+        \end{tabular}%
+    \label{tab:scores}%
+\end{table}%

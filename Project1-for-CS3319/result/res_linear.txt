@@ -1,0 +1,33 @@
+C: 0.001 score: 0.9284152704681796
+C: 0.002 score: 0.9275220644083586
+C: 0.003 score: 0.9261823101624262
+C: 0.004 score: 0.9253338965292949
+C: 0.005 score: 0.9253339264440944
+C: 0.006 score: 0.9244854529813639
+C: 0.007 score: 0.924262208803108
+C: 0.008 score: 0.9241282403586345
+C: 0.009 score: 0.923860303469688
+
+Best C: 0.001
+Best score: 0.9320785049233037
+
+\begin{table}[htbp]
+\centering
+\caption{Table 3: Results of fine-grained grid search for optimal C parameter}
+\label{tab3}
+\begin{tabular}{c|c}
+\hline
+C & cross\_val\_score \\
+\hline
+0.001 & 0.928415 \\
+0.002 & 0.927522 \\
+0.003 & 0.926182 \\
+0.004 & 0.925333 \\
+0.005 & 0.925333 \\
+0.006 & 0.924485 \\
+0.007 & 0.924262 \\
+0.008 & 0.924128 \\
+0.009 & 0.923860 \\
+\hline
+\end{tabular}
+\end{table}
